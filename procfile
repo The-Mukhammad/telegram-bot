@@ -1,1 +1,1 @@
-worker: python bot-eslatma.py
+worker: python main.py
